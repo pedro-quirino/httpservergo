@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
-	pessoaProto "pessoa/pb"
+	pessoaProto "../pessoa/pb/pessoa"
 	"io/ioutil"
 )
 
